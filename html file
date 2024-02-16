@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head> </head>
+
+<body>
+    <div class="main-con1">
+        <div class="head-con-box">
+            <p>Aeezah.</p>
+            <p>NEW ARRAIVALS</p>
+            <p>SHOP</p>
+            <p>BEAUTY</p>
+            <p>SALE</p>
+            <p>JOURNAL</p>
+            <div class="boxs">
+                <i class="fa-regular fa-box"></i>
+                <i class="fa-solid fa-0"></i>
+            </div>
+        </div>
+        <div class="search">
+            <input type="text" placeholder="Search videos,peoples, and more" class="search-input" />
+            <div class="instagram">
+                <p>INSTAGRAM</p>
+                <hr height=10px />
+                <i class="fa-brands fa-instagram"></i>
+            </div>
+        </div>
+        <div class="main-body">
+            <div class="button-text-con">
+                <h1>FEBRIC THAT SPEAKS</h1>
+                <div class="button-con">
+                    <button class="button1">VIEW ALL</button>
+                    <button class="button2">Watch now</button>
+                </div>
+            </div>
+            <div>
+                <img src="https://res.cloudinary.com/difbmfdoo/image/upload/v1708066869/My_project_11_1_dz1lph.png" class="image1" />
+            </div>
+        </div>
+        <div class="shirts-hobbies">
+            <div class="shirts">
+                <h1>Shirts</h1>
+                <img src="https://res.cloudinary.com/difbmfdoo/image/upload/v1708067152/1_rcjox1.png" class="image1" />
+            </div>
+            <div class="hobbies">
+                <h1>Hobbies</h1>
+                <img src="https://res.cloudinary.com/difbmfdoo/image/upload/v1708067398/2_xtvdrd.png" class="image1" />
+            </div>
+        </div>
+    </div>
+    <div class="main-con2">
+        <div class="head-con">
+            <h1>Aeezah</h1>
+            <div class="boxs">
+                <i class="fa-regular fa-box color"></i>
+                <i class="fa-solid fa-0 color"></i>
+            </div>
+        </div>
+        <h1>FEBRIC THAT SPEAKS</h1>
+        <h1>NEW ADDITION</h1>
+        <img src="https://res.cloudinary.com/difbmfdoo/image/upload/v1708066869/My_project_11_1_dz1lph.png" class="image1" />
+        <div class="button-con">
+            <button class="button1">VIEW ALL</button>
+            <button class="button2">Watch now</button>
+        </div>
+        <div class="shirts">
+            <h1>Shirts</h1>
+            <img src="https://res.cloudinary.com/difbmfdoo/image/upload/v1708067152/1_rcjox1.png" class="image1" />
+        </div>
+        <div class="hobbies">
+            <h1>Hobbies</h1>
+            <img src="https://res.cloudinary.com/difbmfdoo/image/upload/v1708067398/2_xtvdrd.png" class="image1" />
+        </div>
+    </div>
+</body>
+
+</html>
