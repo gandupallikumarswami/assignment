@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-con1 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.head-con-box {
+    height: 40px;
+    border: 2px solid #6600ff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.boxs {
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    width: 40px;
+}
+
+.search-input {
+    height: 30px;
+    width: 300px;
+    border: 1.5px solid #0066ff;
+    text-align: center;
+}
+
+.search {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.instagram {
+    display: flex;
+    flex-direction: row;
+}
+
+.main-body {
+    display: flex;
+    flex-direction: row;
+}
+
+.button-text-con {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.button-con {
+    display: flex;
+    flex-direction: row;
+}
+
+.button1 {
+    background-color: black;
+    height: 50px;
+    width: 90px;
+    color: white;
+}
+
+.button2 {
+    height: 50px;
+    width: 90px;
+}
+
+.image1 {
+    height: 60vh;
+}
+
+.shirts-hobbies {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.color {
+    background-color: #66ff99;
+}
+
+
+.main-con2 {
+    display: flex;
+    flex-direction: column;
+    width: 50vh;
+}
+
+.head-con {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media (max-width:749px) {
+    .main-con1 {
+        display: none;
+    }
+
+    .main-con2 {
+        display: block;
+    }
+}
+
+@media (min-width:749px) {
+    .main-con1 {
+        display: block;
+    }
+
+    .main-con2 {
+        display: none;
+    }
+}
